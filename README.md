@@ -9,30 +9,22 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
 
 
 
-<a href="https://day0424.ai55.cc/?site=a0502" target="_blank" style="color: black">
-<img src="https://st.ai55.cc/img/202305022223486.jpg" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>
-<br>
-<a href="https://day0424.ai55.cc/?site=a0502" target="_blank" style="color: black">
-👆 https://1gpt.uk/ [广告]
-</a>
 
 
 
-
-
-**标注说明**
+**"Labeling instructions."**
 
 | 🔖 | 📓        |
 |----|-----------|
-| ⭐  | 使用稳定，推荐   |
-| 🆕 | 最近更新      |
-| 😄 | 免费使用      |
-| 🔑 | 需要登陆或密码   |
-| ✈️ | 需国际网络进行访问 |
+| ⭐ | Stable to use, recommended   |
+| 🆕 | recently updated      |
+| 😄 | free to use      |
+| 🔑 | requires login or password   |
+| ✈️ | needs international network access |
 
-[//]: # (| 🤑 | 付费使用      |)
+[//]: # (| 🤑 | Paid to use,      |)
 
-[//]: # (| 🎁 | 付费使用，体验次数 |)
+[//]: # (| 🎁 | paid to use with limited trial experience |)
 
 
 
