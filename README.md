@@ -940,7 +940,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
 </table>
 
 
-### 问答
+### Q&A (questions and answers)
 
 
 
@@ -967,7 +967,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
 </table>
 
 
-### 办公
+### Office work
 
 
 
@@ -1032,7 +1032,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank"> Xiezuocat.com </a> </td>
     <td> </td>
-    <td>密塔写作猫</td> 
+    <td>Mita Writing Cat</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1050,7 +1050,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/dyrt.me.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=V3VveE5Lc2VLM2QxVjNDMW02UDcraFNSaTloSTJBMmp4Nm1MUTFZdWZ2ST0=" target="_blank"> Dyrt.me </a> </td>
     <td></td>
-    <td>AI 写作</td> 
+    <td>AI Writing</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=V3VveE5Lc2VLM2QxVjNDMW02UDcraFNSaTloSTJBMmp4Nm1MUTFZdWZ2ST0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1059,7 +1059,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/deepl.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank"> Deepl.com </a> </td>
     <td> </td>
-    <td>DeepL写作</td> 
+    <td>DeepLWriting</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1077,7 +1077,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank"> Jasper.ai </a> </td>
     <td></td>
-    <td>AI 创作</td> 
+    <td>AI Creating</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1086,7 +1086,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/ssw9noe1h6.feishu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank"> Ssw9noe1h6.feishu.cn </a> </td>
     <td></td>
-    <td>AI 知识库</td> 
+    <td>AI Knowledge base</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1095,7 +1095,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=writesonic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank"> Writesonic.com </a> </td>
     <td></td>
-    <td>AI 创作</td> 
+    <td>AI Creating</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1104,7 +1104,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/codefuture.top.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=Qko0ZEJvWmhiLzlmRVpTZFlMeFBHbVBnRE5RK2xWbkdqZ2V1UFVwZFlUNDZPZHVFYjY4ZHRaVU8rTnpKNTRSYg==" target="_blank"> Ai-toolbox.codefuture.top </a> </td>
     <td></td>
-    <td>AI帮个忙</td> 
+    <td>AICan you do me a favor?</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=Qko0ZEJvWmhiLzlmRVpTZFlMeFBHbVBnRE5RK2xWbkdqZ2V1UFVwZFlUNDZPZHVFYjY4ZHRaVU8rTnpKNTRSYg==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1113,7 +1113,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/heyfriday.cn.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank"> Heyfriday.cn </a> </td>
     <td> </td>
-    <td>智能写作</td> 
+    <td>Intelligent writing</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1122,7 +1122,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/jimmylv.cn.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank"> B.jimmylv.cn </a> </td>
     <td></td>
-    <td>AI B站总结</td> 
+    <td>AI Bilibili summary</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1131,7 +1131,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank"> Notion.so </a> </td>
     <td></td>
-    <td>AI 写作</td> 
+    <td>AI Writing</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1140,7 +1140,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=ai.free-tools.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank"> Ai.free-tools.cn </a> </td>
     <td> </td>
-    <td>AI 工具箱</td> 
+    <td>AI Toolbox</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1149,7 +1149,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/typeset.io.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank"> Typeset.io </a> </td>
     <td>🛫</td>
-    <td>AI文秘助手</td> 
+    <td>AI writing assistant</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1167,14 +1167,14 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/zhoubaotong.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank"> Zhoubaotong.com </a> </td>
     <td>🛫</td>
-    <td>周报通</td> 
+    <td>Weekly report tool</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
 
 
-### 编程
+### Coding
 
 
 
@@ -1185,7 +1185,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank"> Docsgpt.arc53.com </a> </td>
     <td>🛫</td>
-    <td>技术文档助手</td> 
+    <td>Technical documentation assistant</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1194,7 +1194,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank"> Sqlkiller.com </a> </td>
     <td> </td>
-    <td>AI快速生成SQL</td> 
+    <td>AI rapid SQL generation</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1203,7 +1203,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank"> Cursor.so </a> </td>
     <td> </td>
-    <td>AI代码生成</td> 
+    <td>AI code generation</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1212,7 +1212,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=Slp5RFgwRUdtOTFwR2Q4TXlodHp3UCt6SzVNd2UwM3ZIQUxuR3k4UDBnWFNLcFYwK3FzazV6dGNzMW5mQlV3Vw==" target="_blank"> Promptperfect.jinaai.cn </a> </td>
     <td> </td>
-    <td>提示词优化</td> 
+    <td>Keyword optimization</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=Slp5RFgwRUdtOTFwR2Q4TXlodHp3UCt6SzVNd2UwM3ZIQUxuR3k4UDBnWFNLcFYwK3FzazV6dGNzMW5mQlV3Vw==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1221,7 +1221,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank"> Regex.ai </a> </td>
     <td> </td>
-    <td>AI正则表达式</td> 
+    <td>AI regular expressions</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1257,7 +1257,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/allaitools.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank"> Bbs.allaitools.cn </a> </td>
     <td></td>
-    <td>中文Prompt工坊</td> 
+    <td>Chinese Prompt workshop</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1275,7 +1275,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/bito.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank"> Bito.ai </a> </td>
     <td></td>
-    <td>AI编程辅助工具</td> 
+    <td>AI programming assistant tools</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1284,7 +1284,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/tabnine.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=enorbW95QnFJSE5HMVpYRXlmTGFjd1pCS0NjVklabGE3TDdhdTJGYU1RZz0=" target="_blank"> Tabnine.com </a> </td>
     <td></td>
-    <td>开发助手</td> 
+    <td>Development assistant</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=enorbW95QnFJSE5HMVpYRXlmTGFjd1pCS0NjVklabGE3TDdhdTJGYU1RZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1293,7 +1293,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=kodezi.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank"> Kodezi.com </a> </td>
     <td></td>
-    <td>AI编程助手</td> 
+    <td>AI programming assistant</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1302,7 +1302,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=anthropic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=VmRRdmRVbDVSQU0yUXBsaFpLSHV2dWNQOVVGWXQ2ZFBoanBSMEwxNXV1clV5bFV0VTUyUDdYNWF1UTdVd2lCTFo1ZkZYV1FxZDNHNURoRWUxVlhpa2c9PQ==" target="_blank"> Anthropic.com </a> </td>
     <td></td>
-    <td>Slack  AI 助手插件</td> 
+    <td>Slack  AI Assistant plugin</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=VmRRdmRVbDVSQU0yUXBsaFpLSHV2dWNQOVVGWXQ2ZFBoanBSMEwxNXV1clV5bFV0VTUyUDdYNWF1UTdVd2lCTFo1ZkZYV1FxZDNHNURoRWUxVlhpa2c9PQ==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1347,14 +1347,14 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank"> Wangwl.net </a> </td>
     <td>😄</td>
-    <td> AI正则表达式</td> 
+    <td> AI regular expressions</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
 
 
-### 生活
+### Life
 
 
 
@@ -1365,7 +1365,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/chilloutai.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=U2swOWs3OTZaNjhVVGtDZVFKODZlajI4eWgrNHEyVXB3R1I5ZDlZaHQ2VT0=" target="_blank"> Chilloutai.com </a> </td>
     <td>🛫</td>
-    <td>虚拟女友</td> 
+    <td>Virtual girlfriend</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=U2swOWs3OTZaNjhVVGtDZVFKODZlajI4eWgrNHEyVXB3R1I5ZDlZaHQ2VT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1374,7 +1374,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/openai-lab.com.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=QWg5Z01LRC84aTBMWldXeHY2S2RHUmpUbURiQTJaTHFrcjRVWlRVallQajNBY29pb3JkMTZLTExvYk1iVm1FUQ==" target="_blank"> Harry-potter.openai-lab.com </a> </td>
     <td></td>
-    <td>文字游戏</td> 
+    <td>Word games</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=QWg5Z01LRC84aTBMWldXeHY2S2RHUmpUbURiQTJaTHFrcjRVWlRVallQajNBY29pb3JkMTZLTExvYk1iVm1FUQ==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1383,7 +1383,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/streamlit.app.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=VUltQzZ3c2pRV3RzN0NWaXdKUTFseGp5RUUxYStvdTdSaWFsQjFiQUcvNHI0K1dQejRGYTIwbU9TdmpWNFVQRA==" target="_blank"> Wordstory.streamlit.app </a> </td>
     <td>🛫</td>
-    <td>单词故事</td> 
+    <td>Word stories</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=VUltQzZ3c2pRV3RzN0NWaXdKUTFseGp5RUUxYStvdTdSaWFsQjFiQUcvNHI0K1dQejRGYTIwbU9TdmpWNFVQRA==" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1392,14 +1392,14 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=hotoke.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=YnlRT2R6bXlVaWY3MlJSbjdrZXR3ZEk5QWhNL0I2aHpnNVVFZDZBcXRIUT0=" target="_blank"> Hotoke.ai </a> </td>
     <td>🛫</td>
-    <td>AI 如来(佛)</td> 
+    <td>AI Tathagata (Buddha)</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=YnlRT2R6bXlVaWY3MlJSbjdrZXR3ZEk5QWhNL0I2aHpnNVVFZDZBcXRIUT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
 
 
-### ChatGPT 应用
+### ChatGPT Application
 
 
 
@@ -1410,7 +1410,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/chatplus.app.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=RFJEb0dMbW8wMU02VTN3cnNMZmNPdmF1VlVFU2xZV01aUm1sRy9oSlk3QT0=" target="_blank"> Chatplus.buzz </a> </td>
     <td></td>
-    <td>Chat客户端</td> 
+    <td>Chat client</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=RFJEb0dMbW8wMU02VTN3cnNMZmNPdmF1VlVFU2xZV01aUm1sRy9oSlk3QT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1419,7 +1419,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/open-gpt.app.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=Wmtza3lERmNzMDcrT0ZJdXhyMzRaYmRJN285SzFFRlpGQlpsb3ZPTVVmYz0=" target="_blank"> Open-gpt.app </a> </td>
     <td>🛫</td>
-    <td>ChatGPT 应用</td> 
+    <td>ChatGPT Application</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=Wmtza3lERmNzMDcrT0ZJdXhyMzRaYmRJN285SzFFRlpGQlpsb3ZPTVVmYz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -1437,17 +1437,17 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://favicon.zhusl.com/ico?url=toolbuilder.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=T0hFQ0ZBc1BpYk1lZHpMTUZEdEpUYWkwSzA1RFBFbWhGMHI3aTBuOGV1az0=" target="_blank"> Toolbuilder.ai </a> </td>
     <td>🔑</td>
-    <td>自定义 AI </td> 
+    <td>Customization AI </td> 
     <td><a href="https://day0424.ai55.cc/url/?id=T0hFQ0ZBc1BpYk1lZHpMTUZEdEpUYWkwSzA1RFBFbWhGMHI3aTBuOGV1az0=" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
 
 
-### 失效站点
+### Dead links
 
 <details>
-  <summary>失效站点</summary>
+  <summary>Dead links</summary>
 
 
 1. https://ai.bo-e.com/ <br/>
@@ -1653,19 +1653,18 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
 
 </details>
 
-### 欢迎补充
+### Welcome to add
 
-GitHub 仓库地址: https://github.com/xx025/carrot
+GitHub Repository address: (https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
 
-如果您认为站点可以加⭐、分享你发现的新的站点，反馈失效站点，欢迎[点此](https://github.com/xx025/carrot/issues)告诉我
+"If you think the website is worthy of a ⭐, please share any new sites you find, report dead links, or feedback. [Click here.]"](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)Tell me
 
-[排序算法](https://github.com/xx025/carrot/blob/dev/weight-rank.md) | [关于广告](https://cc.ai55.cc/ads/)
+[Sorting algorithms]((https://github.com/ericpd/awesome_ChatGPT4-WebLinks)) | [About advertisements](https://github.com/ericpd/)
 
-### 协议
+### Agreement
+If you are syncing or republishing the contents of this repository, please abide by the following agreement: 1. You can remove the advertisement positions. 2. Please keep the other parts original without any modifications
 
-如果您正在同步或转载本仓库内容，请遵守以下协议：1. 可以移除广告位 2. 其他部分请保持原文，不作修改
+### Last updated
 
-### 最后更新
-
-如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年05月07日 20点04分
+"If the time below is more than 1 day ahead of the current time, please go to [GitHub repository](https://github.com/ericpd) to view the latest content."
+> "Last updated: May 8th, 2023 at 15:40."
