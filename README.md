@@ -222,7 +222,7 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank"> N1.xjai.cc </a> </td>
     <td>🆕😄</td>
-    <td>免费AI绘画/GPT-3.5；付费GPT-4</td> 
+    <td>Free AI drawing/GPT-3.5; paid GPT-4</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
