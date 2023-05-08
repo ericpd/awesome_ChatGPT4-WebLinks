@@ -1,10 +1,11 @@
 # Free ChatGPT Site List
 
-**这儿为你准备了众多免费好用的ChatGPT镜像站点**
+**"We have prepared many free and easy-to-use ChatGPT mirror sites for you here "**
 
-发布网站： [https://cc.ai55.cc/ ](https://cc.ai55.cc/) 😃敬请收藏和分享
+"Website published: [https://github.com/ericpd] 😃Please bookmark and share."
 
-**分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)
+**"To share a website, report a broken link or an error in labeling, 
+please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)"]
 
 
 
