@@ -1,43 +1,43 @@
 ---
-name: 添加站点
-about: 添加站点的模板
-title: '[添加站点] '
+name: Add website
+about: Templates for adding websites
+title: '[Add website] '
 labels: add-site
 assignees: ''
 
 ---
 
 
-**网址**
+**URL**
 
 ```
 http://example.com/
 ```
-**网站类型**
+**Website type**
 
-- [x] ChatGPT站点
-- [ ] 其他
+- [x] ChatGPT website
+- [ ] Other
 
-**网站简介、使用方式****
+**Website overview, usage instructions****
 
-> 请尽量描述清楚，各行方便
-> 会给据使用方式分配权重，如: 免费> （付费+体验次数）> 付费 
+> Please describe it as clearly as possible, convenient for all industries
+> Weights will be assigned based on usage, for example: Free > (Paid + Trial Times) > Paid 
 
-- [x] 😄 免费使用(打开即可用无限制)
-- [ ] 🔑 免费使用但是需要登录或密码
-- [ ] 🤑 付费使用 
-- [ ] 🎁 付费使用，体验次数
+- [x] 😄 Free to use
+- [ ] 🔑 Free to use but requires login or password
+- [ ] 🤑 Paid usage
+- [ ] 🎁 Paid usage, trial times
 
 
-**网站图标-路径(可选)**
-> 正方形 那种
+**Website icon - path (optional)**
+> Square type
 
 ```
 http://example.com/favicon.ico
 ```
 
-**是否需要国际网络(可选)**
+**Whether international network is required (optional)**
 
-- [x] 否
-- [ ] 是
+- [x] No
+- [ ] Yes
 
