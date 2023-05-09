@@ -1,12 +1,12 @@
 ---
-name: 反馈站点
-about: 反馈站点
-title: '[反馈] '
+name: Feedback website
+about: Feedback website
+title: '[Feedback] '
 assignees: ''
 
 ---
 
 
-网址： http://example.com/
+URL： http://example.com/
 
-问题：如网站失效
+Issue: What if the website becomes unavailable
