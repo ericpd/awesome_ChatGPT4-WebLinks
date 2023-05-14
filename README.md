@@ -436,10 +436,10 @@ please [🌺click here🌺](https://github.com/ericpd/awesome_ChatGPT4-WebLinks)
   <tr>
     <td>45.</td>
     <td><img src="https://st.ai55.cc/favicon/xeasy.me.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=Z09JZStQZmlnOTgrTVBoR2JDNmovT3AxUiswbFVmNWkyb1ZydGRKUEliND0=" target="_blank"> Wet.xeasy.me </a> </td>
+    <td><a href="https://chat.ninvfeng.xyz/" target="_blank"> chat.ninvfeng.xyz </a> </td>
     <td>🆕😄</td>
-    <td> </td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=Z09JZStQZmlnOTgrTVBoR2JDNmovT3AxUiswbFVmNWkyb1ZydGRKUEliND0=" target="_blank">🔗 </a> </td> 
+    <td> GPT-3.5 </td> 
+    <td><a href="https://chat.ninvfeng.xyz/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
